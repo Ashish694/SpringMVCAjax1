@@ -1,0 +1,37 @@
+.container
+	{
+		margin-top: 50px;
+	}
+	.row
+	{
+		padding: 10px;
+	}
+	.titlerow
+	{
+		background-color: blue;
+		text-align:center;
+		color: white;
+	}
+	.titlerow a
+	{
+		color: white;
+	}
+	.headingrow
+	{
+		background-color: #ececec;
+		font-weight: bold;
+		font-size: 18px;
+	}
+	.detailrow
+	{
+		background-color: #F4F6F6;
+	}
+	.detailrow:hover
+	{
+		background-color: #D6EAF8;
+	}
+	
+	form
+	{
+		background-color: #F2F3F4;
+	}
